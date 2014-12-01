@@ -9,3 +9,5 @@ Have 50+ sequences input
 	* yeasts
 	* unicellular
 	* multicellular
+	
+uses MEGA6.05 as of Dec 1 2014
