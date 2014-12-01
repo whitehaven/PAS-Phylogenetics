@@ -5,7 +5,7 @@ Phylogenetics of PAS Kinase genes.
 
 Goals:
 Have 50+ sequences input
-*segregate by file into category
-	*yeasts
-	*unicellular
-	*multicellular
+* segregate by file into category
+	* yeasts
+	* unicellular
+	* multicellular
